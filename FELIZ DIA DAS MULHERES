@@ -1,0 +1,25 @@
+
+<index.html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dia Internacional da Mulher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Feliz Dia Internacional da Mulher!</h1>
+    <p>Mulheres, vocês são inspiração diária. Que seus sonhos se realizem! 💜</p>
+    <img src="URL_DA_SUA_IMAGEM" alt="Imagem Inspiradora">
+</body>
+</html>
